@@ -13,7 +13,7 @@ GhostBuster is a Python script for recursively scanning directories on a web ser
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/ghostbuster.git
+    git clone https://github.com/ghostvirus62/ghostbuster.git
     ```
 
 2. **Navigate to the Project Directory:**
