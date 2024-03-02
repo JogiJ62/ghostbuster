@@ -7,8 +7,6 @@ GhostBuster is a Python script for recursively scanning directories on a web ser
 - Multithreaded scanning for faster directory enumeration
 - Support for various HTTP methods (GET, POST, HEAD, PUT, DELETE)
 - Automatic detection of open ports (default: 80)
-- Progress display showing scanned directories
-- Display of found directories in real-time
 
 ## Usage
 
